@@ -1,2 +1,3 @@
 <h1>About</h1>
-<p>asd putty</p>
+
+<p>This is a blog written about my life and my coding projects.</p>

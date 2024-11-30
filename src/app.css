@@ -4,18 +4,18 @@ html {
 	--font-monospace-code: 'JetBrains Mono', monospace;
 
 	/* dark */
-	--brand-dark: var(--orange-3);
+	--brand-dark: var(--purple-8);
 	--text-1-dark: var(--gray-3);
 	--text-2-dark: var(--gray-5);
 	--surface-1-dark: var(--gray-12);
 	--surface-2-dark: var(--gray-11);
 	--surface-3-dark: var(--gray-10);
 	--surface-4-dark: var(--gray-9);
-	--background-dark: var(--gradient-8);
+	--background-dark: var(--gradient-23);
 	--border-dark: var(--gray-9);
 
 	/* light */
-	--brand-light: var(--orange-10);
+	--brand-light: var(--purple-11);
 	--text-1-light: var(--gray-8);
 	--text-2-light: var(--gray-7);
 	--surface-1-light: var(--gray-0);
