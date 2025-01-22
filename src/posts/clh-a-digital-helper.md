@@ -1,10 +1,10 @@
 ---
 title: CLH - A digital Helper
-description:  
+description: 
 date: 2024-11-30
-categories: 
-    - personal
-    - dev
+categories:
+  - personal
+  - dev
 published: true
 ---
 
